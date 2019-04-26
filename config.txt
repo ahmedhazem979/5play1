@@ -1,6 +1,6 @@
-token= NTMxODcyMTQyNjkwNjE1MzA2.DxUYjA.TB0vD880M0DL5XnKsVx14plyWCQ
-owner=433198762706599936
-prefix=5
-game= 7akawy SERVER
+token= NTYzNDUzODk4Nzk1Mzg0ODYy.XMNhrQ.1bhWCLraUli-fmQdPgc6eS8Mv2U
+owner=538083629461536789
+prefix=2
+game=Type 2 Play
 stayinchannel=true
 songinstatus=true 
